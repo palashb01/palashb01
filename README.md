@@ -1,5 +1,5 @@
 
-<center><img width=800px height=auto src='https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif' alt=""></img></center>
+<center><img width=880px height=auto src='https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif' alt=""></img></center>
 <h1 align="center" class="font">Hi 👋, I'm PALASH BADERIA</h1>
 <h3 align="center">while(TRUE){ <br> cout<<"EXPLORING...";}</h3>
 <img align="right" alt="Coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
