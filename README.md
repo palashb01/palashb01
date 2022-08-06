@@ -1,5 +1,12 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+    .font{
+        font-family: 'Mouse Memoirs', sans-serif;
+    }
+    
+</style>
 <center><img width=1000px height=auto src='https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif' alt=""></img></center>
-<h1 align="center">Hi 👋, I'm PALASH BADERIA</h1>
+<h1 align="center" class="font">Hi 👋, I'm PALASH BADERIA</h1>
 <h3 align="center">while(TRUE){ <br> cout<<"EXPLORING...";}</h3>
 <img align="right" alt="Coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
@@ -11,22 +18,18 @@
 
 - 👯 Aim for 2022 **Contribute to GSOC**
 
-- 💬 Ask me about **C++,C,CSS,JS**
-
 - 📫 How to reach me **palash.baderia@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/palash baderia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palash baderia" height="30" width="40" /></a>
-<a href="https://instagram.com/palashb.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palashb.31" height="30" width="40" /></a>
-</p>
+<h1 class="font">Connect With Me:</h1>
+<p><a href="https://www.linkedin.com/in/palash-baderia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin" alt=""></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)(https://skills.thijs.gg)
+<h1 align="left" class="font">Languages and Tools:</h1>
+<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,next,nest,js,nodejs,expressjs,cpp,c,java,heroku,firebase,mongodb" alt="My Skills"></a></p>
 
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palashb01&show_icons=true&locale=en" alt="palashb01" /></p>
+<p align="center" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashb01&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
 
-<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&" alt="palashb01" /></p></div>
+
+    <p align="center"><a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img alt="palashb01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/palashb01?cardType=level-alternate&theme=github-dark" />  </a></p>
+    <p align="center"><a href="https://github.com/palashb01/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&amp;theme=blue-green" alt="palashb01&#39;s github streak"></a></p>
 
