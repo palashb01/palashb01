@@ -1,10 +1,4 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
-    .font{
-        font-family: 'Mouse Memoirs', sans-serif;
-    }
-    
-</style>
+
 <center><img width=1000px height=auto src='https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif' alt=""></img></center>
 <h1 align="center" class="font">Hi 👋, I'm PALASH BADERIA</h1>
 <h3 align="center">while(TRUE){ <br> cout<<"EXPLORING...";}</h3>
@@ -28,8 +22,6 @@
 
 <br>
 <p align="center" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashb01&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
-
-
-    <p align="center"><a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img alt="palashb01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/palashb01?cardType=level-alternate&theme=github-dark" />  </a></p>
-    <p align="center"><a href="https://github.com/palashb01/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&amp;theme=blue-green" alt="palashb01&#39;s github streak"></a></p>
+<p align="center"><a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img alt="palashb01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/palashb01?cardType=level-alternate&theme=github-dark" />  </a></p>
+<p align="center"><a href="https://github.com/palashb01/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&amp;theme=blue-green" alt="palashb01&#39;s github streak"></a></p>
 
