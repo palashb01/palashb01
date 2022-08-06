@@ -22,11 +22,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)(https://skills.thijs.gg)
 
 <br>
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palashb01&show_icons=true&locale=en&layout=compact" alt="palashb01" /></p>
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palashb01&show_icons=true&locale=en" alt="palashb01" /></p>
 
 <p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&" alt="palashb01" /></p></div>
