@@ -20,6 +20,7 @@
 <h1 align="left" class="font">Languages and Tools:</h1>
 <p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,next,nest,js,nodejs,expressjs,cpp,c,java,heroku,firebase,mongodb" alt="My Skills"></a></p>
 
+<p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=ddagwldjt5bo44bxngyms3ru5" alt="Alt text"></p>
 <br>
 <p align="center" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashb01&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
 <p align="center"><a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark"><img alt="palashb01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/palashb01?cardType=level-alternate&theme=github-dark" /></a></p>
