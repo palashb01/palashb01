@@ -18,7 +18,7 @@
 <p><a href="https://www.linkedin.com/in/palash-baderia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin" alt=""></a></p>
 
 <h1 align="left" class="font">Languages and Tools:</h1>
-<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,next,nest,js,nodejs,expressjs,cpp,c,java,heroku,firebase,mongodb" alt="My Skills"></a></p>
+<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,next,nest,js,nodejs,expressjs,cpp,c,java,heroku,firebase,mongodb,bootstrap,css,materialui" alt="My Skills"></a></p>
 
 <p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=ddagwldjt5bo44bxngyms3ru5" alt="Alt text"></p>
 
