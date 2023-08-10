@@ -25,4 +25,4 @@
 <p align="center" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashb01&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
 <p align="center"><a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark"><img alt="palashb01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/palashb01?cardType=level-alternate&theme=github-dark" /></a></p>
 <p align="center"><a href="https://github.com/palashb01/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&amp;theme=blue-green" alt="palashb01&#39;s github streak"></a></p>
-
+[![palashb01's GitHub | Topics Over Time](https://stats.quine.sh/palashb01/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=palashb01)
