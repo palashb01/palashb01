@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palashb01&label=Profile%20views&color=0e75b6&style=flat" alt="palashb01" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 New Open Source Tech Stack
 
-- 🌱 I’m currently learning **NEXT.JS , NEST.JS*
-
-- 👯 Aim for 2022 **Contribute to GSOC**
+- 👯 Aim for 2024 **Become a Better Bug :)**
 
 - 📫 How to reach me **palash.baderia@outlook.com**
 
